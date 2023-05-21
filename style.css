@@ -15,12 +15,7 @@ button {
 em {
   color: blueviolet;
 }
-form {
-  position: relative;
-  bottom: 100px;
-  max-width: 100%;
-  display: inline;
-}
+
 
 footer {
   position: relative;
